@@ -1,4 +1,4 @@
-# Awesome Fungible Token [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome ERCs for Identity and Verifiable Credentials [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ## Final
 
