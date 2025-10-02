@@ -42,6 +42,9 @@
 
 ## Stagnant
 
+> [!CAUTION]
+> All `ERC` standards listed below are categorized as `stagnant` due to no activity for at least 6 months. These `ERCs` should not be used without **caution**. If you choose to use them, you **MUST** thoroughly review the **Security Considerations** section to understand the risks involved.
+
 - [ERC-1056 : Ethereum Lightweight Identity](https://eips.ethereum.org/EIPS/eip-1056)
 - [ERC-1484 : Digital Identity Aggregator](https://eips.ethereum.org/EIPS/eip-1484)
 - [ERC-1812 : Ethereum Verifiable Claims](https://eips.ethereum.org/EIPS/eip-1812)
